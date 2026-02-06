@@ -10,7 +10,7 @@ The application follows a secure, HIPAA-compliant architecture with offline capa
 
 ### AWS Infrastructure Architecture
 
-For a detailed AWS infrastructure diagram and implementation guide, see: **[Recovery Companion AWS Architecture](../../../recovery-companion-aws-architecture.md)**
+For a detailed AWS infrastructure diagram and implementation guide, see: **[Recovery Companion AWS Architecture](../../../aws-recoverycompanion/recovery-companion-aws-architecture.md)**
 
 The AWS architecture includes:
 - **Frontend**: CloudFront CDN, S3 static hosting, WAF security
